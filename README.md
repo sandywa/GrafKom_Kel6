@@ -1,1 +1,2 @@
-# GrafKom_Kel6
+# Grafika-Komputer
+Proyek akhir mata kuliah grafika komputer 
